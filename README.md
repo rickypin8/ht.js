@@ -15,10 +15,11 @@ hTableWithJsonObject({
 		customHeaders:['Contacto','Teléfono'] // Para cambiar el titulo de las columnas
 	})
 ```
+# Estructúra del objeto Json
 ```javascript
 var telefonos =
 ```
-# Estructúra del objeto Json
+
 ```json
 {
       "telefonos":[

@@ -18,7 +18,7 @@ hTableWithJsonObject({
 ```javascript
 var telefonos =
 ```
-
+# Estructúra del objeto Json
 ```json
 {
       "telefonos":[

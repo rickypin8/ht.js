@@ -84,8 +84,3 @@ function hTableWithJsonObject(param){
 		return table
 	}
 }
-
-/*Capitalizar*/
-function capi(s){
-	return s.charAt(0).toUpperCase()+s.slice(1)
-}

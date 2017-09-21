@@ -11,7 +11,7 @@ hTableWithJsonObject({
 		tIndex:   true,         // tIndex es true cuando quieres que tu tabla se muestre con el indice del registro.
 		classes:  'table etc',  // classes que se agregan directamente a la etiqueta <table class=" table "></table>
 		idTable:  'myTable',    // Para agregar un id a la tabla <table id='myTable'></table>
-<		autoId:   false,        // true para generar un auto id a la tabla <table id='tbTelefonos'></table>
+		autoId:   false,        // true para generar un auto id a la tabla <table id='tbTelefonos'></table>
 		customHeaders:['Contacto','Teléfono'] // Para cambiar el titulo de las columnas
 	})
 ```
